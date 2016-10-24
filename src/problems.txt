@@ -1,0 +1,51 @@
+3.1.6
+
+C:\Users\Brian Martinez\algs4\HW3>java-algs4 FCPutsAndGets 8 < tale.txt
+Monsieur 93
+distinct = 9207
+words    = 18226
+numGets  = 9019
+numWPuts = 9019
+numDPuts = 9207
+
+3.1.8
+
+Monseigneur 47
+
+3.1.9
+
+C:\Users\Brian Martinez\algs4\HW3>java-algs4 problem319 1 < tale.txt
+the 7356
+distinct = 19110
+words    = 135935
+Last word processed: known."
+
+C:\Users\Brian Martinez\algs4\HW3>java-algs4 problem319 8 < tale.txt
+Monsieur 93
+distinct = 8932
+words    = 17543
+Last word processed: faltering
+
+C:\Users\Brian Martinez\algs4\HW3>java-algs4 problem319 10 < tale.txt
+Monseigneur 47
+distinct = 4115
+words    = 6320
+Last word processed: disfigurement
+
+3.1.19
+
+C:\Users\Brian Martinez\algs4\HW3>java-algs4 problem3119 < tale.txt
+Top 10 word occurrences:
+the, 7356 occurrences
+and, 4681 occurrences
+of, 3957 occurrences
+to, 3388 occurrences
+a, 2770 occurrences
+in, 2393 occurrences
+his, 1911 occurrences
+was, 1672 occurrences
+that, 1650 occurrences
+I, 1451 occurrences
+
+(only drawback of this approach is that it only stores the *last* word to have that number
+of occurrences)
